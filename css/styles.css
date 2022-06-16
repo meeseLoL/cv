@@ -1,0 +1,23 @@
+  body {
+    background-color: #82DBD8;
+  }
+
+  hr {
+
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: grey;
+    border-width: 5px;
+  }
+  img {
+    height: 300px;
+  }
+  h1{
+    color: #EDE6DB;
+    font-family: monospace;
+  }
+  h3 {
+    color: #EDE6DB;
+    font-family: monospace;
+  }
